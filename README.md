@@ -1,2 +1,2 @@
 # SASS
- Net Ninja SASS tutorial completion
+ SASS tutorial completion
